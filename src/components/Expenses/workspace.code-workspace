@@ -1,0 +1,61 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\..\\..\\Subjects\\Web Programming\\Java script-New version\\self practise\\Pig game"
+	},
+	{
+		"path": "..\\..\\..\\..\\Subjects\\Web Programming\\Java script-Old version\\complete-javascript-course-master\\4-DOM-pig-game"
+	},
+	{
+		"path": "..\\..\\..\\..\\Subjects\\Web Programming\\Java script-New version\\complete-javascript-course-master\\09-Data-Structures-Operators\\final"
+	},
+	{
+		"path": "..\\..\\..\\..\\Subjects\\Web Programming\\Java script-New version\\complete-javascript-course-master\\10-Functions\\starter"
+	},
+	{
+		"path": "..\\..\\..\\..\\Subjects\\Web Programming\\Java script-New version\\complete-javascript-course-master\\11-Arrays-Bankist"
+	},
+	{
+		"path": "..\\..\\..\\..\\Subjects\\Web Programming\\Java script-New version\\complete-javascript-course-master\\12-Numbers-Dates-Timers-Bankist"
+	},
+	{
+		"path": "..\\..\\..\\..\\Subjects\\Web Programming\\Java script-New version\\complete-javascript-course-master\\13-Advanced-DOM-Bankist"
+	},
+	{
+		"path": "..\\..\\..\\..\\Subjects\\Web Programming\\Java script-New version\\complete-javascript-course-master\\14-OOP"
+	},
+	{
+		"path": "..\\..\\..\\..\\Subjects\\Web Programming\\Java script-New version\\complete-javascript-course-master\\15-Mapty"
+	},
+	{
+		"path": "..\\..\\..\\..\\Subjects\\Web Programming\\Java script-New version\\complete-javascript-course-master\\16-Asynchronous"
+	},
+	{
+		"path": "..\\..\\..\\..\\Subjects\\Web Programming\\Java script-New version\\complete-javascript-course-master\\17-Modern-JS-Modules-Tooling"
+	},
+	{
+		"path": "..\\..\\..\\..\\Subjects\\Web Programming\\Java script-New version\\complete-javascript-course-master\\18-forkify"
+	},
+	{
+		"path": "..\\..\\..\\..\\Subjects\\Web Programming\\Java script-New version\\self practise\\Portfolio"
+	},
+	{
+		"path": "..\\..\\..\\..\\Subjects\\Web Programming\\Web development\\TinDog-Start-master"
+	},
+	{
+		"path": "..\\..\\..\\..\\react project\\project"
+	},
+	{
+		"path": "..\\..\\.."
+	},
+	{
+		"path": "..\\..\\..\\..\\reducer"
+	},
+	{
+		"path": "..\\..\\..\\..\\orderfood-master"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Portfolio"
+  }
+}
